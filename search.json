@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Biologist from EAFIT University specialized in bioinformatics and genomics.\nI’m interested in population genetics, RAD-seq genotyping, and building reproducible bioinformatics pipelines. This site is where I write up projects and ideas as I work through them.\nFind me on GitHub."
+  },
+  {
+    "objectID": "about.html#andres-florian",
+    "href": "about.html#andres-florian",
+    "title": "About",
+    "section": "",
+    "text": "Biologist from EAFIT University specialized in bioinformatics and genomics.\nI’m interested in population genetics, RAD-seq genotyping, and building reproducible bioinformatics pipelines. This site is where I write up projects and ideas as I work through them.\nFind me on GitHub."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "BioFlor",
+    "section": "",
+    "text": "A blog dedicated to bioinformatics projects, ideas, and explorations. Here I document analyses, pipelines, and concepts from the world of genomics and computational biology — written up whenever I get the chance.\nWhether it’s a reanalysis of a public dataset, a test of a new tool, or just notes on something I found interesting, the goal is to share it in a way that’s reproducible and hopefully useful to others.\n\n\n\nBlog — Posts on bioinformatics projects with code, interactive plots, and writeups.\nAbout — A bit about who I am."
+  },
+  {
+    "objectID": "index.html#what-youll-find-here",
+    "href": "index.html#what-youll-find-here",
+    "title": "BioFlor",
+    "section": "",
+    "text": "Blog — Posts on bioinformatics projects with code, interactive plots, and writeups.\nAbout — A bit about who I am."
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "No matching items"
+  }
+]
