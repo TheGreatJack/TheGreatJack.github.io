@@ -1,13 +1,15 @@
 ---
-title: "About"
-description: |
-  Explanation for the site
+title: "BioFlor"
+toc: false
 ---
 
-# Bioflor projects
+# Welcome to BioFlor
 
-Small website created as a repository for bioinformatic projects and alike. 
+A blog dedicated to bioinformatics projects, ideas, and explorations. Here I document analyses, pipelines, and concepts from the world of genomics and computational biology — written up whenever I get the chance.
 
-## Author
+Whether it's a reanalysis of a public dataset, a test of a new tool, or just notes on something I found interesting, the goal is to share it in a way that's reproducible and hopefully useful to others.
 
-[Andres Florian](https://github.com/TheGreatJack): Biologist from EAFIT university specialized in bioinformatics and genomics
+## What you'll find here
+
+- **[Blog](blog/index.qmd)** — Posts on bioinformatics projects with code, interactive plots, and writeups.
+- **[About](about.qmd)** — A bit about who I am.

@@ -1,0 +1,12 @@
+---
+title: "About"
+toc: false
+---
+
+## Andres Florian
+
+Biologist from [EAFIT University](https://www.eafit.edu.co/) specialized in bioinformatics and genomics.
+
+I'm interested in population genetics, RAD-seq genotyping, and building reproducible bioinformatics pipelines. This site is where I write up projects and ideas as I work through them.
+
+Find me on [GitHub](https://github.com/TheGreatJack).
